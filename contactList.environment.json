@@ -1,0 +1,33 @@
+{
+	"id": "95a3cbbe-ac70-48ab-a91b-d7305d3ba2de",
+	"name": "ContactList",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "Alma",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "Dingdong",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-07-14T16:39:22.598Z",
+	"_postman_exported_using": "Postman/10.16.0"
+}
